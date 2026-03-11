@@ -1,0 +1,49 @@
+{
+  "info": {
+    "_postman_id": "b6c8eaac-9271-43e5-b311-3e781dd718eb",
+    "name": "Shelly API Endpoints",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "01 Device & System",
+      "item": [],
+      "id": "028d3101-7699-490e-921e-f79d7d746d0e"
+    },
+    {
+      "name": "02 Switch / Relay",
+      "item": [],
+      "id": "4f182f8c-7ea9-402e-9de1-dd2db06f3fa4"
+    },
+    {
+      "name": "03 Light / Dimmer / RGB",
+      "item": [],
+      "id": "81e92224-0f19-48a2-b459-acb99a8af9cc"
+    },
+    {
+      "name": "04 Energy Metering",
+      "item": [],
+      "id": "2b42a3f5-022a-4e3d-85fb-52cdbb612190"
+    },
+    {
+      "name": "05 WiFi & Network",
+      "item": [],
+      "id": "ee8a87c2-ef82-41ae-a5e8-aa66b19f01e4"
+    },
+    {
+      "name": "06 Cloud / MQTT / BLE",
+      "item": [],
+      "id": "361e681c-6c19-4390-b262-1e4791fa4920"
+    },
+    {
+      "name": "07 Scripts",
+      "item": [],
+      "id": "4e6edb57-3890-4f46-b6e7-4b534330d363"
+    },
+    {
+      "name": "08 Schedules / Webhooks",
+      "item": [],
+      "id": "de770df4-f1c5-42f9-815e-69b106140c7e"
+    }
+  ]
+}

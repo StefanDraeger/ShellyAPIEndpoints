@@ -17,4 +17,25 @@ Die Collection eignet sich besonders für:
 - Smart-Home Enthusiasten
 - IoT-Projekte mit Mikrocontrollern (z. B. ESP32, Raspberry Pi)
 
-## Postman
+## Voraussetzungen
+
+Um die Requests zu nutzen benötigst du:
+
+- ein **Shelly Gerät im Netzwerk**
+- die **IP-Adresse des Gerätes**
+- das API-Tool **Postman**
+
+Download:  
+https://www.postman.com/
+
+Optional kann für Cloud-Zugriffe zusätzlich ein **Shelly Authorization Key** erforderlich sein.
+
+![Shelly Cloud Authorization Key](documentation/Shelly-Cloud-Auth-Key.webp)
+
+⚠️ **Wichtig**
+
+Der Authorization Key sollte **wie ein Passwort behandelt werden**.  
+Auch wenn der Schlüssel in der Shelly Cloud erneut angezeigt werden kann, lässt er sich nicht beliebig neu generieren. Wird er öffentlich bekannt, kann damit auf deine Geräte über die Cloud API zugegriffen werden.
+
+Speichere den Schlüssel daher sicher und teile ihn niemals öffentlich.
+
